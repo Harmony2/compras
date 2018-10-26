@@ -1,6 +1,6 @@
-from listacompras.view import View
-from listacompras.control import Control
-from listacompras.modelo import Model
+from view import View
+from control import Control
+from modelo import Model
 
 m = Model()
 # Instancia a View
